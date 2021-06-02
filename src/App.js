@@ -74,7 +74,7 @@ function App() {
 <li>•	Freestyle width of pool using back floats to breathe</li>
 <li>•	Backstroke width of pool</li>
 <li>•	Introduce breaststroke</li>
-<li>•	knee-->dives</li>
+<li>•	Knee dives</li>
 <li>•	Tread water 1 min</li>
 <li>•	Somersault</li>
 <li>•	Introduce side breathing</li>
