@@ -122,6 +122,8 @@ function App() {
         <br></br>
         <br></br>
         <a href="https://app.jackrabbitclass.com/regv2.asp?id=543759" alt="" target="_blank" rel="noopener noreferrer">Sign up for classes with <span id="bold">July</span> start dates here</a>
+<p>For a video on how to use the new (July) sign-up system, please click  
+        <a href="https://youtu.be/cVR8Ilp3v04" src="https://youtu.be/cVR8Ilp3v04" alt="" target="_blank" rel="noopener noreferrer"> here</a>. </p>
         <p>For private lessons and any questions, please email Elena at <a href="mailto: getfitswimschool@gmail.com">getfitswimschool@gmail.com</a></p>
    
         <p id="bold">All classes are held at 1809 Picasso Avenue, Davis, CA 95618</p>
