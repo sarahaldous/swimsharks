@@ -118,11 +118,12 @@ function App() {
 
 
         </div>
-        <a href="https://studio.zenplanner.com/zenplanner/studio/index.html#/main/iframe/zenplanner/studio/calendar/index.cfm" alt="" target="blank" rel="noopener noreferrer">Sign up for classes with <span id="bold">June</span> start dates here</a>
+        <a href="https://studio.zenplanner.com/zenplanner/studio/index.html#/main/iframe/zenplanner/studio/calendar/index.cfm" alt="" target="_blank" rel="noopener noreferrer">Sign up for classes with <span id="bold">June</span> start dates here</a>
         <br></br>
         <br></br>
-        <a href="https://app.jackrabbitclass.com/regv2.asp?id=543759" alt="" target="blank" rel="noopener noreferrer">Sign up for classes with <span id="bold">July</span> start dates here</a>
+        <a href="https://app.jackrabbitclass.com/regv2.asp?id=543759" alt="" target="_blank" rel="noopener noreferrer">Sign up for classes with <span id="bold">July</span> start dates here</a>
         <p>For private lessons and any questions, please email Elena at <a href="mailto: getfitswimschool@gmail.com">getfitswimschool@gmail.com</a></p>
+   
         <p id="bold">All classes are held at 1809 Picasso Avenue, Davis, CA 95618</p>
         <br></br>
         <br></br>
