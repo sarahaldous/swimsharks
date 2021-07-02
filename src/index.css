@@ -15,3 +15,8 @@ code {
 #bold {
   font-weight:bold;
 }
+
+#signup a {
+  color: rgb(219, 37, 37);
+  font-weight: bold;
+}
